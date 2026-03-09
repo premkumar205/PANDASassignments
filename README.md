@@ -23,12 +23,12 @@ Data visualization using Pandas plotting tools
 # 📂 Folder Structure
 PANDASassignments/
 │
-├── assignment_1.ipynb       # Basic Pandas operations
-├── assignment_2.ipynb       # Data cleaning and handling missing values
-├── assignment_3.ipynb       # Grouping, merging, and joining
-├── assignment_4.ipynb       # Statistical operations and visualizations
-├── datasets/                # Sample datasets used for assignments
-└── README.md                # Repository documentation
+- ├── assignment_1.ipynb       # Basic Pandas operations
+- ├── assignment_2.ipynb       # Data cleaning and handling missing values
+- ├── assignment_3.ipynb       # Grouping, merging, and joining
+- ├── assignment_4.ipynb       # Statistical operations and visualizations
+- ├── datasets/                # Sample datasets used for assignments
+- └── README.md                # Repository documentation
 
 # Learning Outcomes
 
