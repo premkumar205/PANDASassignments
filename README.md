@@ -33,10 +33,10 @@ PANDASassignments/
 # Learning Outcomes
 
 By completing these assignments, you will learn:
-✅ How to efficiently handle tabular data using Pandas
-✅ How to perform exploratory data analysis (EDA)
-✅ How to preprocess and visualize data for insights
-✅ How to work with different file formats in Pandas
+- ✅ How to efficiently handle tabular data using Pandas
+- ✅ How to perform exploratory data analysis (EDA)
+- ✅ How to preprocess and visualize data for insights
+- ✅ How to work with different file formats in Pandas
 
 # 🛠️ Technologies Used
 
